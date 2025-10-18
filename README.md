@@ -52,6 +52,21 @@ By studying mission attributes such as **payload**, **launch cost**, **launch cl
 - Due to limited data, the **recall for SFR > 6** was low, indicating difficulty in predicting highly developed companies.  
 - Expanding the dataset could improve model robustness and generalization.
 
+
+### 📸 Dashboard Preview
+
+#### Page 1
+![Dashboard Preview1](dashboard_preview1.png)
+
+#### Page 2
+![Dashboard Preview2](dashboard_preview2.png)
+
+#### Page 3
+![Dashboard Preview1](dashboard_preview3.png)
+
+#### Page 4
+![Dashboard Preview2](dashboard_preview4.png)
+
 ---
 
 ## 🧾 Conclusion
@@ -75,6 +90,9 @@ Key takeaways:
 
 ---
 
+## 👤 Author
+Name : **Pranav Agwan** 
 
-📧 [Your Email]  
-🔗 [LinkedIn Profile] | [Portfolio / Website]
+📧 Mail : agwanpranav123@gmail.com 
+
+🔗 LinkedIn Profile : www.linkedin.com/in/pranav-agwan-84b80b211  
