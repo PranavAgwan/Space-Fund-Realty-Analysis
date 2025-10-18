@@ -84,7 +84,7 @@ Key takeaways:
 | **Python (Pandas, NumPy, Matplotlib, Seaborn)** | Data cleaning and visualization |
 | **Scikit-learn** | Machine learning modeling and evaluation |
 | **Jupyter Notebook** | Integrated analysis and reporting environment |
-| ** Power BI** | Creating insightful dashboards |
+| **Power BI** | Creating insightful dashboards |
 
 ---
 
