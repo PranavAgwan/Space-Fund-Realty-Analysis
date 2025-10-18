@@ -1,13 +1,11 @@
 # 🚀 Space Fund Realty (SFR) Analysis
 
 ## 🧠 Introduction
-The **Space Fund Realty (SFR) Analysis** project focuses on evaluating aerospace companies and their missions to provide **actionable insights for investors and stakeholders**.  
-The main objective is to analyze the **SFR rating** — a metric from **1 to 9** that reflects a company’s development, stability, and capability to execute space missions.
+The **Space Fund Realty (SFR) Analysis** project focuses on evaluating aerospace companies and their missions to provide **actionable insights for investors and stakeholders**. The main objective is to analyze the **SFR rating** — a metric from **1 to 9** that reflects a company’s development, stability, and capability to execute space missions.
 
-Higher SFR scores represent well-established companies capable of managing **larger payloads and high-cost missions**, while lower scores reflect **early-stage or emerging companies**.  
-By studying mission attributes such as **payload**, **launch cost**, **launch class**, **orbit altitude**, and **technology type**, this analysis reveals patterns that can help understand the maturity and investment potential of aerospace firms worldwide.
+Higher SFR scores represent well-established companies capable of managing **larger payloads and high-cost missions**, while lower scores reflect **early-stage or emerging companies**. By studying mission attributes such as **payload**, **launch cost**, **launch class**, **orbit altitude**, and **technology type**, this analysis reveals patterns that can help understand the maturity and investment potential of aerospace firms worldwide.
 
-> 📝 The complete analysis, visualizations, and model results are documented in the Jupyter Notebook: **`SFR_analysis.ipynb`**.
+📝 The complete analysis, visualizations, and model results are documented in the Jupyter Notebook: **`SFR_analysis.ipynb`**.
 
 ---
 
