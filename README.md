@@ -87,8 +87,10 @@ Key takeaways:
 
 ---
 
-## 👤 Author
-Name : **Pranav Agwan** 
+
+## 👨‍💻 Author
+
+👤 Name : **Pranav Agwan** 
 
 📧 Mail : agwanpranav123@gmail.com 
 
