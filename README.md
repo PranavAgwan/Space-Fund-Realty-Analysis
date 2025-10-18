@@ -53,16 +53,16 @@ Higher SFR scores represent well-established companies capable of managing **lar
 
 ### 📸 Dashboard Preview
 
-#### Page 1
+#### Page 1 : Executive Overview
 ![Dashboard Preview1](dashboard_preview1.png)
 
-#### Page 2
+#### Page 2 : Mission Characteristics
 ![Dashboard Preview2](dashboard_preview2.png)
 
-#### Page 3
+#### Page 3 : Cost and Payload Insights
 ![Dashboard Preview1](dashboard_preview3.png)
 
-#### Page 4
+#### Page 4 : Company Profiles
 ![Dashboard Preview2](dashboard_preview4.png)
 
 ---
