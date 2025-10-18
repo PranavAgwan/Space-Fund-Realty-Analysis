@@ -68,8 +68,7 @@ Higher SFR scores represent well-established companies capable of managing **lar
 ---
 
 ## 🧾 Conclusion
-This analysis uncovers valuable insights into how **company maturity, mission attributes, and financial capacity** relate to SFR ratings.  
-By integrating **EDA and machine learning**, the project provides a foundation for **data-driven decision-making** in aerospace investment analysis.
+This analysis uncovers valuable insights into how **company maturity, mission attributes, and financial capacity** relate to SFR ratings. By integrating **EDA and machine learning**, the project provides a foundation for **data-driven decision-making** in aerospace investment analysis.
 
 Key takeaways:
 - Mature aerospace firms are strongly correlated with higher payload capacities and launch costs.  
