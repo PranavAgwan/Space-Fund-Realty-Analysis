@@ -5,7 +5,7 @@ The **Space Fund Realty (SFR) Analysis** project focuses on evaluating aerospace
 
 Higher SFR scores represent well-established companies capable of managing **larger payloads and high-cost missions**, while lower scores reflect **early-stage or emerging companies**. By studying mission attributes such as **payload**, **launch cost**, **launch class**, **orbit altitude**, and **technology type**, this analysis reveals patterns that can help understand the maturity and investment potential of aerospace firms worldwide.
 
-📝 The complete analysis, visualizations, and model results are documented in the Jupyter Notebook: **`SFR_analysis.ipynb`**.
+📝 The complete analysis, visualizations, and model results are documented in the Jupyter Notebook: **`SFR Analysis.ipynb`**.
 
 ---
 
